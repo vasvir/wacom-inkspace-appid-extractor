@@ -20,7 +20,7 @@ Pairing is still required though.
 
 The db dir is located in windows somewhere here:
 ```
-    C:\Users\\${USER}\AppData\Local\Packages\D91E29CF.InkspaceApp_38kynpdw5g1aw\LocalState\db
+    C:\Users\${USER}\AppData\Local\Packages\D91E29CF.InkspaceApp_38kynpdw5g1aw\LocalState\db
 ```
 You can copy it to your python (linux) machine and extract the appID/UUID there.
 
