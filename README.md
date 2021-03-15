@@ -14,7 +14,9 @@ Pairing is still required though.
 ```
 
 ## Usage
+```
   ./wacom-inkspace-appid-extractor.py {directory of electron app index db}
+```
 
 The db dir is located in windows somewhere here:
 ```
