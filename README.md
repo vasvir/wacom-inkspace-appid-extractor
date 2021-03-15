@@ -25,6 +25,8 @@ The db dir is located in windows somewhere here:
 You can copy it to your python (linux) machine and extract the appID/UUID there.
 
 The output is something like that:
+```
    appID: 256484a96358
+```
 
 Now you can put the hex output as your UUID in ~/.local/share/tuhi/${BLUETOOTH_ADDRESS}/settings.ini
